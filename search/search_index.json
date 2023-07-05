@@ -1,1 +1,1 @@
-{"config": {"lang": ["en"], "separator": "[\\s\\-]+", "pipeline": ["stopWordFilter"]}, "docs": [{"location": "Publish%20test%202/", "title": "Publish test 2", "text": "<p>something more</p>"}]}
+{"config": {"lang": ["en"], "separator": "[\\s\\-]+", "pipeline": ["stopWordFilter"]}, "docs": [{"location": "Index/", "title": "Index", "text": "<p>My start page</p> <p>you can jump to Publish test 2</p>"}, {"location": "Publish%20test%202/", "title": "Publish test 2", "text": "<p>something more</p>"}]}

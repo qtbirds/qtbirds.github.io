@@ -1,6 +1,15 @@
 [
     {
         "page": null,
+        "src_uri": "Index.md",
+        "abs_src_path": "C:\\Users\\senderov\\Dropbox\\Workspaces\\Q-T-Birds\\qtbirds.github.io\\docs\\Index.md",
+        "name": "Index",
+        "dest_uri": "Index/index.html",
+        "abs_dest_path": "C:\\Users\\senderov\\Dropbox\\Workspaces\\Q-T-Birds\\qtbirds.github.io\\site\\Index\\index.html",
+        "url": "Index/"
+    },
+    {
+        "page": null,
         "src_uri": "Publish test 2.md",
         "abs_src_path": "C:\\Users\\senderov\\Dropbox\\Workspaces\\Q-T-Birds\\qtbirds.github.io\\docs\\Publish test 2.md",
         "name": "Publish test 2",
