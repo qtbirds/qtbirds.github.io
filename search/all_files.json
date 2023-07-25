@@ -46,6 +46,15 @@
     },
     {
         "page": null,
+        "src_uri": "ECCB 2023/Poster.md",
+        "abs_src_path": "C:\\Users\\senderov\\Dropbox\\Workspaces\\Q-T-Birds\\qtbirds.github.io\\docs\\ECCB 2023\\Poster.md",
+        "name": "Poster",
+        "dest_uri": "ECCB 2023/Poster/index.html",
+        "abs_dest_path": "C:\\Users\\senderov\\Dropbox\\Workspaces\\Q-T-Birds\\qtbirds.github.io\\site\\ECCB 2023\\Poster\\index.html",
+        "url": "ECCB%202023/Poster/"
+    },
+    {
+        "page": null,
         "src_uri": "assets/css/admonition.css",
         "abs_src_path": "C:\\Users\\senderov\\Dropbox\\Workspaces\\Q-T-Birds\\qtbirds.github.io\\docs\\assets\\css\\admonition.css",
         "name": "admonition",
