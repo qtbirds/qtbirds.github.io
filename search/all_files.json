@@ -64,6 +64,15 @@
     },
     {
         "page": null,
+        "src_uri": "assets/meta/favicons.png",
+        "abs_src_path": "C:\\Users\\senderov\\Dropbox\\Workspaces\\Q-T-Birds\\qtbirds.github.io\\docs\\assets\\meta\\favicons.png",
+        "name": "favicons",
+        "dest_uri": "assets/meta/favicons.png",
+        "abs_dest_path": "C:\\Users\\senderov\\Dropbox\\Workspaces\\Q-T-Birds\\qtbirds.github.io\\site\\assets\\meta\\favicons.png",
+        "url": "assets/meta/favicons.png"
+    },
+    {
+        "page": null,
         "src_uri": "assets/images/favicon.png",
         "abs_src_path": "C:\\Users\\senderov\\AppData\\Roaming\\Python\\Python311\\site-packages\\material\\assets\\images\\favicon.png",
         "name": "favicon",
