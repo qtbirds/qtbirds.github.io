@@ -2,6 +2,10 @@
 share: true
 ---
 
+![[poster-vsenderov-eccb2023.pdf]]
+
+---
+
 **Session C Poster Set-up and Dismantle**  
 Session C Posters set up:  
 Wednesday, July 26,between 08:00 CEST and 08:45 CEST  
