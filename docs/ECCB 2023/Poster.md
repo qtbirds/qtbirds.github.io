@@ -2,7 +2,7 @@
 share: true
 ---
 
-![[poster-vsenderov-eccb2023.pdf]]
+Download poster [poster-vsenderov-eccb2023](./poster-vsenderov-eccb2023.pdf)
 
 ---
 

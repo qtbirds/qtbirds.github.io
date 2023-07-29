@@ -1,5 +1,5 @@
-site_name: qtbirds # Change this to your site name
-site_description: Quantitative Tools for assessing the Correlated Evolution of Genes and Phenotypes: Application to Birds Color Patterns (Q-T-Birds)
+site_name: QT-Birds Project # Change this to your site name
+site_description: Quantitative Tools for assessing the Correlated Evolution of Genes and Phenotypes
 site_url: https://qtbitds.github.io/ # Change this to your site URL
 
 theme:
@@ -94,8 +94,6 @@ plugins:
       custom-attributes: 'assets/css/custom_attributes.css'
   - custom-attributes:
       file: 'assets/css/custom_attributes.css'
-  - tags:
-      tags_file: tags.md
   - encryptcontent:
       title_prefix: '🔐'
       summary: 'Private page'

@@ -2,4 +2,4 @@
 share: true
 ---
 
-![[presentation-vsenderov-eccb2023.pdf]]
+Download presentation [[presentation-vsenderov-eccb2023.pdf]]
