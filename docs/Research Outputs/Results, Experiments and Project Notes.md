@@ -21,6 +21,6 @@ As the bird dataset was not available, we attempted to apply the model on [an ec
 
 ## Archive
 
-Out [Python notebooks](https://drive.google.com/file/d/1Zxr7-7cDTnOysCE4JEdt86Qx9D9gfIdu/view?usp=sharing) containing numerical exploration, as well as [lab notes](https://drive.google.com/file/d/1ZzYo7cbCjNjo3boIQLWbb6b6jDf3NcW-/view?usp=sharing) are available to download here.  However, those are unorganized and contain experimental explorative code.  Therefore, they are also password-protected[^1].
+Our [Python notebooks](https://drive.google.com/file/d/1Zxr7-7cDTnOysCE4JEdt86Qx9D9gfIdu/view?usp=sharing) containing numerical exploration, as well as [lab notes](https://drive.google.com/file/d/1ZzYo7cbCjNjo3boIQLWbb6b6jDf3NcW-/view?usp=sharing) are available to download here.  However, those are unorganized and contain experimental explorative code.  Therefore, they are also password-protected[^1].
 
 [^1]: `openssl enc -d -aes-256-cbc -pbkdf2 -in experiments.tar.bz2.enc -out experiments-decrypted.tar.bz2 -k PWD -iter 10000`
